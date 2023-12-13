@@ -50,7 +50,9 @@ medicinal plants: unless you've tried them all you're stupid and don't know it, 
   controversial:
    - tobacco
 
-
+medicinal music:
+    - prerecorded - psytrance and related genres
+    - live - anything
 
 law makers:
  - use git or get lost; stop this diarrhea, more is not better.
