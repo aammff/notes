@@ -69,6 +69,7 @@ religions: learn about programming languages first, or you'll not understand any
 other:
   - get art from an artist
   - absolute pitch matters
+  - if you haven't mixed, you're not a dj, conversly, you no nothing of importance. the japanese took over the world and you haven't noticed.
   - dont eat animals, especially mammals, you're a mammal, aren't you? bible says you can eat animals? would you kill one? bible says many things. don't copy everything you read.
   - money is a proxy for stupidity, don't think otherwise; fractional reserve banking is a scam, maybe biggest in history
   - calendars are a hidden power, don't abuse it
@@ -79,5 +80,5 @@ other:
   - don't believe "scientific" scams - examples co2, viruses - diseases are either deadly or contagious, not both, for obvious reasons
     - air particulates are a grave danger, don't ignore it
   - science is magic for the common folk, the world is immaterial, sooner or later everybody finds out
-  - don't do anything stupid, don't be an useful idiot, don't scam others
-  - if you've ever commited any crime, "legal" or not, against your own children - you're a life robber of a worst kind and deserve to lose everything, burn in hell.
+  - don't do anything stupid, don't be a useful idiot, don't scam others
+  - if you've ever commited any crime, "legal" or not, against your own children - you're a life robber of a worst kind and it is justful for you to lose everything, burn in hell.
