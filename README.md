@@ -59,3 +59,10 @@ religions: learn about programming languages first, or you'll not understand any
  - hindhuism - nice myths, good to know.
  - if you're religion was not parodied, you may as well forget about it.
  - if you drink alcohol, your religion is a bachus greek sect - don't be fooled, extremely dangerous idiots. smoke weed.
+
+other:
+  - get art from an artist
+  - dont eat animals, especially mammals, you're a mammal, aren't you?
+  - money is a proxy for stupidity, don't think otherwise
+  - calendars are a hidden power, don't abuse it
+
