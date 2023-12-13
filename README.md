@@ -48,6 +48,7 @@ medicinal plants: unless you've tried them all you're stupid and don't know it, 
    - tobacco
 
 
+
 law makers:
  - use git or get lost; stop this diarrhea, more is not better.
 
@@ -75,3 +76,4 @@ other:
     - air particulates are a grave danger, don't ignore it
   - science is magic for the common folk, the world is immaterial, sooner or later everybody finds out
   - don't do anything stupid, don't be an useful idiot, don't scam others
+  - if you've ever commited any crime, "legal" or not, against your own children - you're a life robber of a worst kind and deserve to lose everything, burn in hell.
