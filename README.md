@@ -48,7 +48,7 @@ medicinal plants: unless you've tried them all you're stupid and don't know it, 
    - coffee 2/5
    - salvia
   controversial:
-   - tobacco
+   - tobacco - don't smoke in public
 
 medicinal music:
     - prerecorded - psytrance and related genres
