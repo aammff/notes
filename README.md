@@ -47,6 +47,7 @@ medicinal plants: unless you've tried them all you're stupid and don't know it, 
    - green tea exp 1/5
    - coffee 2/5
    - salvia
+     
   controversial:
    - tobacco - don't smoke in public
 
@@ -85,5 +86,3 @@ other:
   - don't drill holes in rocks, you're not a climber but an idiot with a drill
   - don't do anything stupid, don't be a useful idiot, don't scam others
   - if you've ever commited any crime, "legal" or not, against your own children - you're a life robber of a worst kind and it is justful for you to lose everything, burn in hell.
-
-88
