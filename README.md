@@ -82,6 +82,7 @@ other:
   - don't fall for "scientific" scams - examples co2, viruses - diseases are either deadly or contagious, not both, for obvious reasons
     - air particulates are a grave danger, don't ignore it
   - science is magic for the common folk, the world is immaterial, sooner or later everybody finds out
+  - don't drill holes in rocks, you're not a climber but an idiot with a drill
   - don't do anything stupid, don't be a useful idiot, don't scam others
   - if you've ever commited any crime, "legal" or not, against your own children - you're a life robber of a worst kind and it is justful for you to lose everything, burn in hell.
 
