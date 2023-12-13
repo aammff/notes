@@ -2,31 +2,33 @@
 common unknowledge
 
 Life is a FIFO queue.
+Learn about the difference between the primary and the secondary process.
 
 natural languages:
 - japanese - greatest language on earth    importance 5/5
 - english - internet                       importance 5/5
-- french - culture, old stuff              importance 4/5
+- french - european culture, old stuff     importance 4/5
 
 
-programming languages for the philosopher
+programming languages for the philosophers out there
 - haskell - classical lazyness - they way people think
 - prolog - horn clauses - two way programming
 - maude - term rewriting - yet another different way to think
 - assembly/c - internals - easy as a pie
-- agda, coq, idris - ...
-- sql - ...
+- agda, coq, idris - software and math verification is badly needed
+- sql - hidden elephant in the room
 
+for the common folk
 - c++ - useful ugliness
 - java - good bad language
 - python, js - bad good language
 - rust - better c
-- lisp/scheme - you're so clever, but learn about types.
+- lisp/scheme - you're so clever, but learn about the types.
 
 - make sure you know about programming languages history. 
 
 errors in programming languages
-- garbage collectors - bad design, code bloat, one of the biggest mistake in programming language design.
+- garbage collectors - bad design, code bloat, one of the biggest unacknowledged mistake in programming language design.
 
 
 medicinal plants: unless you've tried them all you're stupid and don't know it, therefore possibly harmful for others.
@@ -47,7 +49,7 @@ medicinal plants: unless you've tried them all you're stupid and don't know it, 
 
 
 law makers:
- - use git or get lost
+ - use git or get lost; stop this diarrhea, more is not better.
 
 religions: learn about programming languages first, or you'll not understand anything at all.
  - if you differ significantly from buddhism you're in error
@@ -65,4 +67,5 @@ other:
   - dont eat animals, especially mammals, you're a mammal, aren't you?
   - money is a proxy for stupidity, don't think otherwise
   - calendars are a hidden power, don't abuse it
-
+  - don't write non free software, don't build non-free hardware - or you're wasting everybody's time
+  - "intelectual property", "patents", "copyright" - no, no, no. you haven't really invented anything on your own.
