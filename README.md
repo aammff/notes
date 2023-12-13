@@ -65,8 +65,8 @@ religions: learn about programming languages first, or you'll not understand any
 
 other:
   - get art from an artist
-  - dont eat animals, especially mammals, you're a mammal, aren't you?
-  - money is a proxy for stupidity, don't think otherwise
+  - dont eat animals, especially mammals, you're a mammal, aren't you? bible says you can eat animals? would you kill one? bible says many things. don't copy everything you read.
+  - money is a proxy for stupidity, don't think otherwise; fractional reserve banking is a scam, maybe biggest in history
   - calendars are a hidden power, don't abuse it
   - don't write non free software, don't build non-free hardware - or you're wasting everyone's time
   - "intelectual property", "patents", "copyright" - no, no, no. you haven't really invented anything on your own, don't put others on a disadvantage
