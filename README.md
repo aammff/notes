@@ -72,7 +72,7 @@ other:
   - "intelectual property", "patents", "copyright" - no, no, no. you haven't really invented anything on your own, don't put others on a disadvantage
   - don't shave - everything is a quantum computer, hair being its terminal, hair shaving is a major source of errors
   - wars, euthanasia, judicial murders, killings, etc. - don't help people commit suicide - provide medicinal plants instead
-  - don't believe "scientific scams" - examples co2, viruses - diseases are either deadly or contagious, not both, for obvious reasons
+  - don't believe "scientific" scams - examples co2, viruses - diseases are either deadly or contagious, not both, for obvious reasons
     - air particulates are a grave danger, don't ignore it
   - science is magic for the common folk, the world is immaterial, sooner or later everybody finds out
   - don't do anything stupid, don't be an useful idiot, don't scam others
