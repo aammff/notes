@@ -28,7 +28,7 @@ for the common folk
 - make sure you know about programming languages history. 
 
 errors in programming languages
-- garbage collectors - bad design, code bloat, one of the biggest unacknowledged mistake in programming language design.
+- garbage collectors - bad design, code bloat, one of the biggest unacknowledged mistakes in programming language design.
 
 
 medicinal plants: unless you've tried them all you're stupid and don't know it, therefore possibly harmful for others.
@@ -60,7 +60,7 @@ religions: learn about programming languages first, or you'll not understand any
  - sikhs - yea
  - hindhuism - nice myths, good to know.
  - if you're religion was not parodied, you may as well forget about it.
- - if you drink alcohol, your religion is a bachus greek sect - don't be fooled, extremely dangerous idiots. smoke weed.
+ - if you drink alcohol, your religion is a bachus greek sect - don't be fooled, extremely dangerous idiots. smoke weed or vaporize.
 
 other:
   - get art from an artist
