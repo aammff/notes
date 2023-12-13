@@ -54,7 +54,7 @@ law makers:
 
 religions: learn about programming languages first, or you'll not understand anything at all.
  - if you differ significantly from buddhism you're in error
- - christianity - unless you're a mathematician, choose a different religion; most popes did not understand it; hints - don't hang people on crosses, don't hang gods on crosses either, don't hang dolls on crosses, don't practice voodoo, you idiots.
+ - christianity - unless you're a mathematician, choose a different religion; most popes did not understand it; hints - don't hang people on crosses, don't hang gods on crosses either, don't hang dolls on crosses, don't "practice" voodoo, you idiots.
  - buddhism - you're all set
  - islam, judaism - you're not the chosen ones, sorry; stop fighting you idiots; god is not on your side, hint: you were not the ones who visited the moon. learn about other religions to understand your own, they have some good ideas and some bad ones.
  - bon, shinto, shamanism, animism, etc. - yeah.
