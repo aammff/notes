@@ -12,12 +12,13 @@ natural languages:
 
 
 programming languages for the philosophers out there
-- haskell - classical lazyness - they way people think
+- haskell - classical lazyness - the way people think
 - prolog - horn clauses - two way programming
 - maude - term rewriting - yet another different way to think
 - assembly/c - internals - easy as a pie
 - agda, coq, idris - software and math verification is badly needed
 - sql - hidden elephant in the room
+- understand what crayons really are
 
 for the common folk
 - c++ - useful ugliness
@@ -26,7 +27,8 @@ for the common folk
 - rust - better c
 - lisp/scheme - you're so clever, but learn about the types.
 
-- make sure you know about programming languages history. 
+- make sure you know about programming languages history.
+    algol, cobol, forth, mainframes, weaving machines, etc
 
 errors in programming languages
 - garbage collectors - bad design, code bloat, one of the biggest unacknowledged mistakes in programming language design.
