@@ -68,4 +68,6 @@ other:
   - money is a proxy for stupidity, don't think otherwise
   - calendars are a hidden power, don't abuse it
   - don't write non free software, don't build non-free hardware - or you're wasting everybody's time
-  - "intelectual property", "patents", "copyright" - no, no, no. you haven't really invented anything on your own.
+  - "intelectual property", "patents", "copyright" - no, no, no. you haven't really invented anything on your own
+  - don't shave - everything is a quantum computer, hair being its terminal, hair shaving is a major source of errors
+  - wars, euthanasia, judicial murders, killings, etc. - don't help people commit suicide - provide medicinal plants instead
