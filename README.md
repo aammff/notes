@@ -7,7 +7,8 @@ Learn about the difference between the primary and the secondary process.
 natural languages:
 - japanese - greatest language on earth    importance 5/5
 - english - internet                       importance 5/5
-- french - european culture, old stuff     importance 4/5
+- french - european culture, old stuff     importance 3/5
+- tonal languages
 
 
 programming languages for the philosophers out there
@@ -65,6 +66,7 @@ religions: learn about programming languages first, or you'll not understand any
 
 other:
   - get art from an artist
+  - perfect pitch matters
   - dont eat animals, especially mammals, you're a mammal, aren't you? bible says you can eat animals? would you kill one? bible says many things. don't copy everything you read.
   - money is a proxy for stupidity, don't think otherwise; fractional reserve banking is a scam, maybe biggest in history
   - calendars are a hidden power, don't abuse it
