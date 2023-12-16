@@ -1,7 +1,7 @@
 # notes
 common unknowledge
 
-Life is a FIFO queue.
+Life is a single sign-on FIFO queue.
 Learn about the difference between the primary and the secondary process.
 
 natural languages:
