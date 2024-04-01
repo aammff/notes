@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Linear_logic
 
 
 1. lossy compression should not be used unless strictly necessary
-2. number systems with bitflip functin should be avoided
+2. number systems with bitflip function should be avoided
 3. asynchronous/clockless cpu
 4. gc-less/gc-free
 5. bitcoin is technical debt monetised
