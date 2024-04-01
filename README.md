@@ -1,8 +1,8 @@
 # notes
 common unknowledge
 
-Life is a single sign-on LIFO queue.
-Learn about the difference between the primary and the secondary process.
+// ---Life is a single sign-on LIFO queue.
+// ---Learn about the difference between the primary and the secondary process.
 
 natural languages:
 - japanese - greatest language on earth    importance 5/5
